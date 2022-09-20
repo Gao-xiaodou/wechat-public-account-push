@@ -62,7 +62,7 @@ export const config = {
       // 想要发送的人的名字
       name: "赵芮",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "opqG45sJ-bYcNjceiNer1N5iglR4",
+      id: "opqG45qtpMacE5Ng2JA7UseYJ-j4",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "NKAN1tttSfUF9QaVqTG1_dmpad8i1Z7EdxI1WPL0KTI",
       // 所在省份
@@ -74,11 +74,11 @@ export const config = {
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot",
+      openUrl: "https://www.1212.com/luck/sagittarius/",
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "老婆", "year": "1999", "date": "11-09",isShowAge: true},
+        {"type": "*生日", "name": "宝贝", "year": "1999", "date": "11-09",isShowAge: true},
 //         {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
 //         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
 //         {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
@@ -147,7 +147,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "opqG45sJ-bYcNjceiNer1N5iglR4",
     },
     // 你可以不断按格式往下增加
     // ...
